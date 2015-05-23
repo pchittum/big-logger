@@ -8,7 +8,7 @@ But basically, I was asked to put something in the debug log that could not be m
 
 Initially, I just copy-pasted the text generated, added some new-line characters, got my log message in there, and it was all good. 
 
-And then [CodeFriar noticed][2]. 
+And then [CodeFriar noticed][2] and wanted to see the code. 
 
 My first response was, "what code?" 
 
@@ -21,7 +21,7 @@ So this is the work in progress.
 ##Status
 
 ###Done
-- Using [4max][3] font ASCII characters from patorjk.com
+- Using [4max][3] font ASCII characters from [patorjk.com][4]
 - Made slight adjustments to get rid of double quote characters and escape single quotes
 - Have basic "write to log" functionality working
 - Supporting characters [SPACE], 0-9, A-Z (upper only)
@@ -37,3 +37,4 @@ So this is the work in progress.
 [1]: http://patorjk.com/software/taag
 [2]: https://twitter.com/codefriar/status/601454449907793920
 [3]: http://patorjk.com/software/taag/#p=display&f=4Max&t=1%202%203%204%205%206%207%208%209%200%20A%20B%20C%20D%20E%20F%20G%20H%20I%20J%20K%20L%20M%20N%20O%20P%20Q%20R%20S%20T%20U%20V%20W%20X%20Y%20Z
+[4]: http://patorjk.com
