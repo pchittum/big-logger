@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BigLogger</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TextToASCIIArt</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>ASCII_Art</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>ASCII_Art_Page</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>33.0</version>
+</Package>
