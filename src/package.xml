@@ -20,5 +20,9 @@
         <members>ASCII_Art_Page</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>dictionary</members>
+        <name>StaticResource</name>
+    </types>
     <version>33.0</version>
 </Package>

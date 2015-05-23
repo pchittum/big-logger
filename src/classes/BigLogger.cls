@@ -78,15 +78,15 @@ public with sharing class BigLogger {
 	}
 
 	public static void debug(String message){
-		debug(message,OutputType.CONSOLE);
+		System.debug(getBigCharString(message));
 	}
 
-	public static void debug(String message, OutputType outputTo){
+	//public static void debug(String message, OutputType outputTo){
 
-	}
-	public BigLogger() {
+	//}
+	//public BigLogger() {
 		
-	}
+	//}
 
 	public static BigLogger.BigChar getBigCharFromString(String jsonBigChar){
 		BigChar ltr = (BigChar) JSON.deserialize(jsonBigChar, BigChar.class);

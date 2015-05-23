@@ -1,0 +1,71 @@
+{"character":[" dP*Yb   ","dP   Yb  ","Yb   dP  "," YbodP   "]}
+
+{"character":["  .d  ",".d88  ","  88  ","  88  "]}
+
+{"character":["oP*Yb.  ","*\' dP\'  ","  dP\'   ",".d8888  "]}
+
+{"character":["88888  ","  .dP  ","o `Yb  ","YbodP  "]}
+
+{"character":["  dP88   "," dP 88   ","d888888  ","    88   "]}
+
+{"character":["888888  ","88oo.*  ","   `8b  ","8888P\'  "]}
+
+{"character":["  dP\'    ",".d8\'     ","8P***Yb  ","`YboodP  "]}
+
+{"character":["888888P  ","    dP   ","   dP    ","  dP     "]}
+
+{"character":[".dP*o.  ","`8b.d\'  ","d\'`Y8b  ","`bodP\'  "]}
+
+{"character":["dP**Yb  ","Ybood8  ","  .8P\'  "," .dP\'   "]}
+
+{"character":["   db     ","  dPYb    "," dP__Yb   ","dP****Yb  "]}  A
+
+{"character":["88**Yb  ","88__dP  ","88**Yb  ","88oodP  "]}
+
+{"character":[" dP**b8  ","dP   `*  ","Yb       "," YboodP  "]}
+
+{"character":["8888b.   "," 8I  Yb  "," 8I  dY  ","8888Y*   "]}
+
+{"character":["888888  ","88__    ","88**    ","888888  "]}
+
+{"character":["888888  ","88__    ","88**    ","88      "]}
+
+{"character":[" dP**b8  ","dP   `*  ","Yb  *88  "," YboodP  "]}
+
+{"character":["88  88  ","88  88  ","888888  ","88  88  "]}
+
+{"character":["88  ","88  ","88  ","88  "]}
+
+{"character":[" 88888  ","    88  ","o.  88  ","*bodP\'  "]}
+
+{"character":["88  dP  ","88odP   ","88*Yb   ","88  Yb  "]}
+
+{"character":["88      ","88      ","88  .o  ","88ood8  "]}
+
+{"character":["8b    d8  ","88b  d88  ","88YbdP88  ","88 YY 88  "]}
+
+{"character":["88b 88  ","88Yb88  ","88 Y88  ","88  Y8  "]}
+
+{"character":[" dP*Yb   ","dP   Yb  ","Yb   dP  "," YbodP   "]}
+
+{"character":["88**Yb  ","88__dP  ","88***   ","88      "]}
+
+{"character":[" dP*Yb   ","dP   Yb  ","Yb b dP  "," `*YoYo  "]}
+
+{"character":["88**Yb  ","88__dP  ","88*Yb   ","88  Yb  "]}
+
+{"character":[".dP*Y8  ","`Ybo.*  ","o.`Y8b  ","8bodP\'  "]}
+
+{"character":["888888   ","  88    ","  88    ","  88    "]}
+
+{"character":["88   88  ","88   88  ","Y8   8P  ","`YbodP\'  "]}
+
+{"character":["Yb    dP  "," Yb  dP   ","  YbdP    ","   YP     "]}
+
+{"character":["Yb        dP  "," Yb  db  dP   ","  YbdPYbdP    ","   YP  YP     "]}
+
+{"character":["Yb  dP  "," YbdP   "," dPYb   ","dP  Yb  "]}
+
+{"character":["Yb  dP  "," YbdP   ","  8P    "," dP     "]}
+
+{"character":["8888P  ","  dP   "," dP    ","d8888  "]}
